@@ -30,6 +30,10 @@ The universe of the Game of Life is an infinite two-dimensional orthogonal
 	moment at which this happens is sometimes called a tick (in other words,
 	each generation is a pure function of the preceding one). The rules
 	continue to be applied repeatedly to create further generations.
+*The grid will be 24x24
+*The will not wrap around
+*The world will run 10 times
+
 
 
 Nonfunctional Requirements:
