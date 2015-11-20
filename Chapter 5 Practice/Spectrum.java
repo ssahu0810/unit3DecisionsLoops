@@ -25,7 +25,7 @@ public class Spectrum
         {
             wave = "Visible Light";
         }
-        else if ((wavelength < 4 * Math.pow(10, -7)) && (wavelength > 4 * Math.pow(10, -7)))
+        else if ((wavelength < 4 * Math.pow(10, -7)) && (wavelength > 1 * Math.pow(10, -8)))
         {
             wave = "Ultraviolet";
         }
