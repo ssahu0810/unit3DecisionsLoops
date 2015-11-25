@@ -30,9 +30,12 @@ The universe of the Game of Life is an infinite two-dimensional orthogonal
 	moment at which this happens is sometimes called a tick (in other words,
 	each generation is a pure function of the preceding one). The rules
 	continue to be applied repeatedly to create further generations.
-*The grid will be 24x24
-*The will not wrap around
-*The world will run 10 times
+* The grid will be 24x24
+* The grid will not wrap around
+* The world will run 10 times
+* Live cells are black and dead cells are blank (empty)
+* The time interval is 500 (not sure of units) between each loop
+* NOTE: I was dumb and chose a random pattern to work off of where all of the cells become still within 5 runs
 
 
 
